@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x628768c8bed061f6d7f8279a6687266776465b47",
+  "SCAN_LINK": "https://polygonscan.com/address/0x628768c8bed061f6d7f8279a6687266776465b47",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pixel Art Krowleys collection!",
+  "SYMBOL": "PAK",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 30000000000000000000,
+  "DISPLAY_COST": 30,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pixelartkrowleys",
+  "SHOW_BACKGROUND": true
+}
